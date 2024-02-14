@@ -1,6 +1,6 @@
 # House Price Prediction in Python - Full Machine Learning Project
 
-This repository contains the code and resources for a machine learning project aimed at predicting house prices using Python. It covers the entire data science process, from data exploration to model evaluation.
+This repository contains the code and resources for a machine-learning project aimed at predicting house prices using Python. It covers the entire data science process, from data exploration to model evaluation.
 
 ## Overview
 
@@ -8,21 +8,13 @@ In this project, we explore a dataset containing various features related to hou
 
 ## Project Structure
 
-- `data/`: Contains the dataset file(s).
-- `notebooks/`: Jupyter notebooks for data exploration, preprocessing, feature engineering, model training, and evaluation.
-- `src/`: Source code for any scripts or modules used in the project.
-- `requirements.txt`: File listing the required Python libraries and their versions.
+- `housing.csv/`: Contains the dataset file(s).
+- `Housing Price Prediction.ipynb/`: Jupyter notebook for data exploration, preprocessing, feature engineering, model training, and evaluation.
 
 ## Requirements
-
-Ensure you have the following libraries installed:
 
 - numpy
 - pandas
 - matplotlib
 - seaborn
 - scikit-learn
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
